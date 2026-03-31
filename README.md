@@ -26,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
