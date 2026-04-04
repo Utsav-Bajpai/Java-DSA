@@ -14,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -55,9 +56,14 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
