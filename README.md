@@ -30,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
 ## Math
 |  |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
 ## Merge Sort
 |  |
@@ -55,6 +57,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
@@ -71,4 +74,8 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
