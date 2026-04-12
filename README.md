@@ -20,6 +20,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0152-maximum-product-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
