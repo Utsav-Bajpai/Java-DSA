@@ -38,6 +38,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,5 +93,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0069-sqrtx) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
