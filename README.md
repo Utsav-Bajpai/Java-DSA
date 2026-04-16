@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0205-isomorphic-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
