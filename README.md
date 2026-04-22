@@ -20,6 +20,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -35,6 +36,7 @@
 | [0001-two-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
@@ -45,6 +47,7 @@
 | [0002-add-two-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
