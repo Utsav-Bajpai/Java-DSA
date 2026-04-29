@@ -82,6 +82,7 @@
 | [0056-merge-intervals](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
