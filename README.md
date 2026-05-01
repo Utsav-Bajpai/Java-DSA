@@ -78,6 +78,7 @@
 | [0001-two-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0056-merge-intervals) |
@@ -126,6 +127,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0069-sqrtx) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Enumeration
