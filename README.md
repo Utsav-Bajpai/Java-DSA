@@ -22,6 +22,7 @@
 | [0075-sort-colors](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0151-reverse-words-in-a-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1021-remove-outermost-parentheses) |
