@@ -104,6 +104,7 @@
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
