@@ -54,6 +54,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -137,6 +138,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
 | ------- |
