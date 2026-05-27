@@ -1,17 +1,40 @@
 class Solution {
     public int numberOfSpecialChars(String word) {
-        int count = 0;
-        HashSet<Character> hs = new HashSet<>();
-        for(char c : word.toCharArray()){
-            if(Character.isUpperCase(c) && !hs.contains(Character.toLowerCase(c))) hs.add(c);
-            else if(Character.isLowerCase(c) && hs.contains(Character.toUpperCase(c))) hs.remove(c);
-            else{
-                if(Character.isLowerCase(c) && !hs.contains(c)) hs.add(c);
-                if(Character.isUpperCase(c) && hs.contains(Character.toLowerCase(c)))hs.add(c);
+
+        int[] lastLower = new int[26];
+        int[] firstUpper = new int[26];
+
+        Arrays.fill(lastLower, -1);
+        Arrays.fill(firstUpper, -1);
+
+        for (int i = 0; i < word.length(); i++) {
+
+            char c = word.charAt(i);
+
+            if (Character.isLowerCase(c)) {
+                lastLower[c - 'a'] = i;
+            }
+
+            else {
+
+                int idx = c - 'A';
+
+                if (firstUpper[idx] == -1) {
+                    firstUpper[idx] = i;
+                }
             }
         }
-        for(char c = 'a'; c <= 'z'; c++){
-            if(hs.contains(c) && hs.contains(Character.toUpperCase(c))) count++;
+
+        int count = 0;
+
+        for (int i = 0; i < 26; i++) {
+
+            if (lastLower[i] != -1 &&
+                firstUpper[i] != -1 &&
+                lastLower[i] < firstUpper[i]) {
+
+                count++;
+            }
         }
 
         return count;
