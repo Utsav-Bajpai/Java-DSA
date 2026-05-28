@@ -62,6 +62,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
@@ -101,6 +102,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0073-set-matrix-zeroes) |
@@ -209,6 +211,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0073-set-matrix-zeroes) |
 ## Union-Find
 |  |
