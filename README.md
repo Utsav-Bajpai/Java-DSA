@@ -67,6 +67,7 @@
 | [0070-climbing-stairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
