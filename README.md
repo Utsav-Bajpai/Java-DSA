@@ -105,6 +105,7 @@
 | [0042-trapping-rain-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0075-sort-colors) |
@@ -171,6 +172,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0073-set-matrix-zeroes) |
 ## Union-Find
 |  |
