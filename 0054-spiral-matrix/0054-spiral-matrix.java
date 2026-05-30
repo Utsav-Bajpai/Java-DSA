@@ -17,8 +17,8 @@ class Solution {
                 for(int i = right; i >= left; i--){
                     ls.add(matrix[bottom][i]);
                 }
+                bottom--;
             }
-            bottom--;
             if(left <= right){
                 for(int i = bottom; i >= top; i--){
                     ls.add(matrix[i][left]);
