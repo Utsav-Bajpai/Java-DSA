@@ -1,13 +1,17 @@
 class Solution {
     public boolean asteroidsDestroyed(int mass, int[] asteroids) {
-        long currmass = mass;
+        int n = asteroids.length;
+
         Arrays.sort(asteroids);
-        for(int i  = 0; i < asteroids.length; i++){
-            if(asteroids[i] <= currmass){
-                currmass += asteroids[i];
-            }
-            else return false;
+
+        long sum = mass;
+
+        for(int i=0;i<n;i++){
+            if(asteroids[i] > sum) return false;
+
+            sum += asteroids[i];
         }
+
         return true;
     }
 }
