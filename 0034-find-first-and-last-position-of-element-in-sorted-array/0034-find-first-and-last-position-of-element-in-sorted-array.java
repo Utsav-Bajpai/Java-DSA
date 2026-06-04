@@ -1,12 +1,31 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int  a = 0, b = nums.length-1;
-        int[] arr = {-1, -1};
-        while(a<=b){
-            if(nums[a] == target && nums[b] == target) return new int[]{a, b};
-            else if(nums[a] != target && nums[b] == target) a++;
-            else b--;
+        int first = firstOcc(nums, 0, nums.length-1, target);
+        int last = lastOcc(nums, 0, nums.length-1, target);
+        return new int[]{first, last};
+    }
+    int firstOcc(int[] arr, int low, int high, int target){
+        int first = -1;
+        while(low <= high){
+            int mid = (low + high) / 2;
+            if(arr[mid] == target){
+                first = mid;
+                high = mid-1;
+            }else if(arr[mid] > target) high = mid-1;
+            else low = mid+1;
         }
-        return arr;
+        return first;
+    }
+    int lastOcc(int[] arr, int low, int high, int target){
+        int last = -1;
+        while(low <= high){
+            int mid = (low + high) / 2;
+            if(arr[mid] == target){
+                last = mid;
+                low = mid+1;
+            }else if(arr[mid] > target) high = mid-1;
+            else low = mid+1;
+        }
+        return last;
     }
 }
