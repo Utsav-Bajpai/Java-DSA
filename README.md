@@ -129,6 +129,7 @@
 | [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
@@ -201,6 +202,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2540-minimum-common-value](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2540-minimum-common-value) |
