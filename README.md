@@ -137,6 +137,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2126-destroying-asteroids) |
@@ -212,6 +213,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2540-minimum-common-value) |
 ## Enumeration
 |  |
