@@ -35,6 +35,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@
 | [0069-sqrtx](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Divide and Conquer
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
