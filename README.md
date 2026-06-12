@@ -130,6 +130,7 @@
 | [0217-contains-duplicate](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2126-destroying-asteroids) |
@@ -186,6 +188,7 @@
 | [0118-pascals-triangle](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 ## Counting
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 | [0069-sqrtx](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0704-binary-search) |
@@ -225,6 +229,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Stack
