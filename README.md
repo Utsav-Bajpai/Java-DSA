@@ -118,6 +118,7 @@
 | [0054-spiral-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -212,6 +213,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
@@ -260,6 +262,7 @@
 | [0048-rotate-image](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 ## Union-Find
 |  |
 | ------- |
