@@ -253,6 +253,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -313,14 +314,17 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
