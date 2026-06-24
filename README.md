@@ -133,6 +133,7 @@
 | [0152-maximum-product-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
@@ -227,6 +228,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0493-reverse-pairs) |
