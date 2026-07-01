@@ -13,6 +13,7 @@
 | [0148-sort-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -33,6 +34,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -44,6 +46,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -264,6 +267,7 @@
 | [0042-trapping-rain-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
