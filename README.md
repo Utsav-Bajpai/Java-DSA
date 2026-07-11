@@ -57,6 +57,7 @@
 | [0206-reverse-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@
 | [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Divide and Conquer
 |  |
