@@ -191,6 +191,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0242-valid-anagram) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0070-climbing-stairs) |
@@ -356,4 +358,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
