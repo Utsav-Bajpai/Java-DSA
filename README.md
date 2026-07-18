@@ -152,6 +152,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -198,6 +199,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0242-valid-anagram) |
@@ -313,6 +315,7 @@
 | [0054-spiral-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Union-Find
@@ -356,6 +359,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -372,6 +376,7 @@
 | [0022-generate-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
