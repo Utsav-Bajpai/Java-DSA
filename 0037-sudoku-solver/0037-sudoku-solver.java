@@ -2,53 +2,29 @@ class Solution {
     public void solveSudoku(char[][] board) {
         solve(board);
     }
-
-    boolean solve(char[][] board) {
-        for (int row = 0; row < 9; row++) {
-            for (int col = 0; col < 9; col++) {
-
-                if (board[row][col] == '.') {
-
-                    for (char ch = '1'; ch <= '9'; ch++) {
-
-                        if (isValid(board, row, col, ch)) {
-                            board[row][col] = ch;
-
-                            if (solve(board))
-                                return true;
-
-                            board[row][col] = '.';
+    boolean solve(char[][] board){
+        for(int i = 0; i < board.length; i++){
+            for(int j = 0; j < board[0].length; j++){
+                if(board[i][j] == '.'){
+                    for(char n = '1'; n <= '9'; n++){
+                        if(isvalid(board, i, j, n)){
+                            board[i][j] = n;
+                            if(solve(board) == true) return true;
+                            else board[i][j] = '.';
                         }
                     }
-
                     return false;
                 }
             }
         }
-
         return true;
     }
-
-    boolean isValid(char[][] board, int row, int col, char ch) {
-
-        for (int i = 0; i < 9; i++) {
-
-            // Check row
-            if (board[row][i] == ch)
-                return false;
-
-            // Check column
-            if (board[i][col] == ch)
-                return false;
-
-            // Check 3x3 box
-            int r = 3 * (row / 3) + i / 3;
-            int c = 3 * (col / 3) + i % 3;
-
-            if (board[r][c] == ch)
-                return false;
+    boolean isvalid(char[][] board, int row, int col, int n){
+        for(int i = 0; i < 9; i++){
+            if(board[row][i] == n) return false;
+            if(board[i][col] == n) return false;
+            if(board[3 * (row / 3) + i / 3][3 * (col / 3) + i % 3] == n) return false;
         }
-
         return true;
     }
 }
