@@ -98,6 +98,7 @@
 | [0070-climbing-stairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -206,6 +207,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0282-expression-add-operators) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0796-rotate-string) |
@@ -385,4 +387,5 @@
 | [0079-word-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
