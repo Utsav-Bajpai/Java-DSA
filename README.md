@@ -206,6 +206,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -298,6 +299,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
