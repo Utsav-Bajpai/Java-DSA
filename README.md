@@ -303,6 +303,7 @@
 | [0042-trapping-rain-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0234-palindrome-linked-list) |
@@ -408,6 +409,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
