@@ -218,6 +218,7 @@
 | [0205-isomorphic-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0282-expression-add-operators) |
+| [0402-remove-k-digits](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0796-rotate-string) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -314,6 +316,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0735-asteroid-collision) |
@@ -324,6 +327,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
