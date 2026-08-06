@@ -41,6 +41,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -99,6 +100,7 @@
 | [0050-powx-n](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0231-power-of-two) |
@@ -172,6 +174,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0217-contains-duplicate) |
