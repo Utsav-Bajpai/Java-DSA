@@ -1,86 +1,66 @@
 class LRUCache {
-    class Node {
-        int key, value;
+    class Node{
+        int key, val;
         Node prev, next;
-
-        Node(int key, int value) {
+        Node(int key, int val){
             this.key = key;
-            this.value = value;
+            this.val = val;
         }
     }
-
     private int capacity;
-    private HashMap<Integer, Node> map;
+    private Map<Integer, Node> cont;
     private Node head, tail;
 
     public LRUCache(int capacity) {
         this.capacity = capacity;
-        map = new HashMap<>();
-
-        // Dummy nodes
         head = new Node(0, 0);
-        tail = new Node(0, 0);
-
+        tail = new Node(0,0);
         head.next = tail;
         tail.prev = head;
+        cont = new HashMap<>();
     }
-
-    // Add node right after head = most recently used
-    private void add(Node node) {
-        node.next = head.next;
-        node.prev = head;
-
-        head.next.prev = node;
-        head.next = node;
-    }
-
-    // Remove node from the list
-    private void remove(Node node) {
-        node.prev.next = node.next;
-        node.next.prev = node.prev;
-    }
-
+    
     public int get(int key) {
-        if (!map.containsKey(key)) {
-            return -1;
-        }
-
-        Node node = map.get(key);
-
-        // This key was just used, so move it to front
-        remove(node);
-        add(node);
-
-        return node.value;
+        if(!cont.containsKey(key))return -1;
+        Node temp = cont.get(key);
+        int val = temp.val;
+        temp.prev.next = temp.next;
+        temp.next.prev = temp.prev;
+        temp.next = head.next;
+        temp.prev = head;
+        head.next = temp;
+        temp.next.prev = temp;
+        return temp.val;
     }
-
+    
     public void put(int key, int value) {
-
-        // Key already exists
-        if (map.containsKey(key)) {
-            Node node = map.get(key);
-
-            node.value = value;
-
-            // Move to front because it is recently used
-            remove(node);
-            add(node);
-
+        if(cont.containsKey(key)){
+            update(key, value);
             return;
         }
-
-        // New key
-        Node node = new Node(key, value);
-        map.put(key, node);
-        add(node);
-
-        // Capacity exceeded
-        if (map.size() > capacity) {
-            Node lru = tail.prev;
-
-            remove(lru);
-            map.remove(lru.key);
-        }
+        Node temp = new Node(key, value);
+        temp.next = head.next;
+        temp.prev = head;
+        head.next = temp;
+        temp.next.prev = temp;
+        cont.put(key, temp);
+        if (cont.size() > capacity) remove();
+    }
+    private void update(int key, int value){
+        Node temp = cont.get(key);
+        temp.val = value;
+        temp.prev.next = temp.next;
+        temp.next.prev = temp.prev;
+        temp.next = head.next;
+        temp.prev = head;
+        head.next = temp;
+        temp.next.prev = temp;
+    }
+    private void remove(){
+        Node temp = tail.prev;
+        tail.prev = temp.prev;
+        temp.prev.next = tail;
+        cont.remove(temp.key);
     }
 }
 
