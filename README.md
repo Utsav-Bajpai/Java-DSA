@@ -85,6 +85,7 @@
 | [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0496-next-greater-element-i) |
@@ -236,6 +237,7 @@
 | [0282-expression-add-operators](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -416,6 +418,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
