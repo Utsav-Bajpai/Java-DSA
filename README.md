@@ -207,6 +207,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
@@ -270,6 +271,7 @@
 | [0409-longest-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2126-destroying-asteroids) |
