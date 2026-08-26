@@ -255,6 +255,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -290,6 +291,7 @@
 | [0152-maximum-product-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1143-longest-common-subsequence) |
 ## Counting
 |  |
 | ------- |
@@ -520,4 +522,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0455-assign-cookies) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
