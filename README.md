@@ -206,6 +206,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0875-koko-eating-bananas) |
@@ -327,6 +328,7 @@
 | [0493-reverse-pairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -346,6 +348,7 @@
 | [0238-product-of-array-except-self](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -444,6 +447,7 @@
 | [0076-minimum-window-substring](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
