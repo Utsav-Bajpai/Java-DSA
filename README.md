@@ -122,6 +122,7 @@
 | [1922-count-good-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3870-count-commas-in-range](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
