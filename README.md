@@ -247,6 +247,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3838-weighted-word-mapping](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -379,6 +380,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
