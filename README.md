@@ -94,6 +94,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -151,6 +152,7 @@
 | [0455-assign-cookies](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0976-largest-perimeter-triangle) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2126-destroying-asteroids](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Merge Sort
@@ -497,6 +499,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -507,6 +510,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -518,6 +522,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -592,6 +597,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
