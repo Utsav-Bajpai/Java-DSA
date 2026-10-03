@@ -289,6 +289,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -425,6 +426,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -661,6 +663,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0678-valid-parenthesis-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Polygons
 |  |
 | ------- |
