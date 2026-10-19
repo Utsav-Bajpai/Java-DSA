@@ -228,6 +228,7 @@
 | [0239-sliding-window-maximum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0435-non-overlapping-intervals) |
@@ -356,6 +357,7 @@
 | [0152-maximum-product-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0435-non-overlapping-intervals) |
@@ -709,6 +711,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -751,6 +754,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
@@ -758,4 +762,8 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
