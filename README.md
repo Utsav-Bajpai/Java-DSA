@@ -258,6 +258,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -505,6 +506,7 @@
 | [0085-maximal-rectangle](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -512,6 +514,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1254-number-of-closed-islands) |
 ## String Matching
 |  |
 | ------- |
@@ -607,6 +610,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -725,6 +729,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1254-number-of-closed-islands) |
 ## DP on Trees
 |  |
 | ------- |
