@@ -228,6 +228,7 @@
 | [0238-product-of-array-except-self](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
@@ -365,6 +366,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
@@ -412,6 +414,7 @@
 | [0162-find-peak-element](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -790,4 +793,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
