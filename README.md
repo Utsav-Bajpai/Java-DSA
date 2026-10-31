@@ -283,6 +283,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3838-weighted-word-mapping](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -387,6 +388,7 @@
 | [1143-longest-common-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1463-cherry-pickup-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
@@ -522,6 +524,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1901-find-a-peak-element-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
