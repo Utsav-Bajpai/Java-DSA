@@ -51,6 +51,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
+| [1048-longest-string-chain](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2540-minimum-common-value) |
@@ -102,6 +103,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2540-minimum-common-value) |
@@ -165,6 +167,7 @@
 | [0905-sort-array-by-parity](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1048-longest-string-chain) |
 | [2126-destroying-asteroids](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Merge Sort
@@ -261,6 +264,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1048-longest-string-chain](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1254-number-of-closed-islands) |
@@ -316,6 +320,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -384,6 +389,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
