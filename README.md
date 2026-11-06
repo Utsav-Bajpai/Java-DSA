@@ -128,6 +128,7 @@
 | [0231-power-of-two](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0976-largest-perimeter-triangle](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -243,6 +244,7 @@
 | [0410-split-array-largest-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0494-target-sum) |
