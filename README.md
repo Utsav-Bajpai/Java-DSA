@@ -274,6 +274,7 @@
 | [1049-last-stone-weight-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -416,6 +417,7 @@
 | [0229-majority-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
@@ -541,6 +543,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -551,6 +554,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1267-count-servers-that-communicate) |
 ## String Matching
 |  |
 | ------- |
@@ -649,6 +653,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -769,6 +774,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1267-count-servers-that-communicate) |
 ## DP on Trees
 |  |
 | ------- |
