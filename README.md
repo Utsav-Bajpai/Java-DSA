@@ -296,6 +296,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -409,6 +410,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1463-cherry-pickup-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
