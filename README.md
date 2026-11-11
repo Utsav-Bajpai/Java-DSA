@@ -283,6 +283,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1882-process-tasks-using-servers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -566,6 +567,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1882-process-tasks-using-servers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1882-process-tasks-using-servers) |
 ## Bucket Sort
 |  |
 | ------- |
