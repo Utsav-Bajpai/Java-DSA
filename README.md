@@ -293,6 +293,7 @@
 | [2540-minimum-common-value](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
