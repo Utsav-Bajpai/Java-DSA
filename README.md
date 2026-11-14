@@ -295,6 +295,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3665-twisted-mirror-path-count) |
@@ -479,6 +480,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
@@ -603,6 +605,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Tree
 |  |
 | ------- |
