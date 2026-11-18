@@ -83,6 +83,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0146-lru-cache) |
@@ -224,6 +225,7 @@
 | [0134-gas-station](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -323,6 +325,7 @@
 | [0076-minimum-window-substring](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0205-isomorphic-strings) |
@@ -397,6 +400,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -533,6 +537,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -853,4 +858,12 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
