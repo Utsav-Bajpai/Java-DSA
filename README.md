@@ -349,6 +349,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2409-count-days-spent-together) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -444,6 +445,7 @@
 | [0054-spiral-matrix](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3838-weighted-word-mapping) |
