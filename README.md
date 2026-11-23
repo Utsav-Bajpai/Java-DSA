@@ -133,6 +133,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0976-largest-perimeter-triangle](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2409-count-days-spent-together) |
@@ -280,6 +281,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1463-cherry-pickup-ii) |
@@ -494,6 +496,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -743,6 +746,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -762,6 +766,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
