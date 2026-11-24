@@ -138,6 +138,7 @@
 | [1922-count-good-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -301,6 +302,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3665-twisted-mirror-path-count) |
@@ -485,6 +487,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
@@ -626,6 +629,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Tree
 |  |
 | ------- |
@@ -735,6 +739,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Utsav-Bajpai/Java-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
